@@ -1,0 +1,8 @@
+name: xInventories-Converter
+main: me.x128.xInventoriesConverter.Main
+author: x128
+version: 1.1
+commands:
+  xinventories-convert:
+    description: Run converter
+depend: [xInventories]
